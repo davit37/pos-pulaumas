@@ -1,0 +1,4 @@
+node_modules
+dist
+example
+*.es5.js

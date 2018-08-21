@@ -1,0 +1,59 @@
+{
+  "_from": "devbridge-autocomplete",
+  "_id": "devbridge-autocomplete@1.4.8",
+  "_inBundle": false,
+  "_integrity": "sha512-WdVh2ApBHvd1a/T6U9NiCsXz7Z1Taln1947O813C9Jo9Mrr3u+JD+4RP7BSyZOccpmu/Q5+0XGK2UqkUkIh3Qw==",
+  "_location": "/devbridge-autocomplete",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "devbridge-autocomplete",
+    "name": "devbridge-autocomplete",
+    "escapedName": "devbridge-autocomplete",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/devbridge-autocomplete/-/devbridge-autocomplete-1.4.8.tgz",
+  "_shasum": "c9bfe9ee07a310227ed4476513ddf78f771d1b5f",
+  "_spec": "devbridge-autocomplete",
+  "_where": "F:\\documen\\latihan Js\\NPM paket",
+  "author": {
+    "name": "Tomas Kirda",
+    "url": "https://twitter.com/tkirda"
+  },
+  "bugs": {
+    "url": "https://github.com/devbridge/jQuery-Autocomplete/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/jquery": "^2.0.32",
+    "jquery": ">=1.7"
+  },
+  "deprecated": false,
+  "description": "Autocomplete provides suggestions while you type into the text field.",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^1.0.1"
+  },
+  "files": [
+    "dist/",
+    "typings/jquery-autocomplete/*.d.ts",
+    "readme.md"
+  ],
+  "homepage": "https://github.com/devbridge/jQuery-Autocomplete",
+  "license": "MIT",
+  "main": "dist/jquery.autocomplete.js",
+  "name": "devbridge-autocomplete",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/devbridge/jQuery-Autocomplete.git"
+  },
+  "types": "./typings/jquery-autocomplete/jquery.autocomplete.d.ts",
+  "version": "1.4.8"
+}

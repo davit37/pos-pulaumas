@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^/production/(.*)$ localhost/pulaumas/$1 [L,R=301]
